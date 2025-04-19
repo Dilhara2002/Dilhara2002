@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm ISHAN WIJESINGHE 👋
 
 > A passionate developer focused on creating impactful solutions
 
