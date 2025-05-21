@@ -37,8 +37,8 @@ I'm a passionate developer with expertise in mobile and web technologies, always
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilhara2002&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhara2002&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilhara2002&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilhara2002&layout=compact&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dilhara2002&theme=tokyonight&hide_border=true)
 
 ---
@@ -46,6 +46,13 @@ I'm a passionate developer with expertise in mobile and web technologies, always
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dilhara2002&theme=tokyonight&no-frame=true&row=1)](https://github.com/Dilhara2002)
+
+---
+
+## 📄 My Resume / CV
+
+You can view or download my resume here:  
+[![Resume](https://img.shields.io/badge/View%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://mysliit-my.sharepoint.com/:b:/g/personal/it22555458_my_sliit_lk/EYbHXfJ8OKxPllB313aQGeIBCLgqj2CupY-v0_EOtXkITw?e=oz6Eot)
 
 ---
 
@@ -57,9 +64,7 @@ I'm a passionate developer with expertise in mobile and web technologies, always
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-wijesinghe-5200a1318/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dilhara2002)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jerrydilhara@gmail.com)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-wijesinghe-5200a1318/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dilhara2002)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jerrydilhara@gmail.com)  
+[![Resume](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=google-drive&logoColor=white)](https://mysliit-my.sharepoint.com/:b:/g/personal/it22555458_my_sliit_lk/EYbHXfJ8OKxPllB313aQGeIBCLgqj2CupY-v0_EOtXkITw?e=oz6Eot)
