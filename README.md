@@ -60,5 +60,6 @@ I'm a passionate developer with expertise in mobile and web technologies, always
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-wijesinghe-5200a1318/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Dilhara2002)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jerrydilhara@gmail.com)
+[![Cv](https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=google-drive&logoColor=white)](https://mysliit-my.sharepoint.com/:b:/g/personal/it22555458_my_sliit_lk/EYbHXfJ8OKxPllB313aQGeIBCLgqj2CupY-v0_EOtXkITw?e=oz6Eot)
 
 ---
